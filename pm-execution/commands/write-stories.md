@@ -74,10 +74,15 @@ If not specified in the invocation, ask:
 #### Story 1: [Short title]
 **[The story in chosen format]**
 
+Background:
+**[Optional additional text explaining the context]**
+
 Acceptance Criteria:
 - [ ] [Criterion 1]
 - [ ] [Criterion 2]
 - [ ] [Criterion 3]
+
+Notes:
 
 Priority: [P0/P1/P2] | Effort: [S/M/L] | Dependencies: [none or list]
 
