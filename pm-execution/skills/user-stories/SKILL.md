@@ -47,7 +47,7 @@ Create user stories following the 3 C's (Card, Conversation, Confirmation) and I
 
 **Title:** Recently Viewed Section
 
-**Description:** As an Online Shopper, I want to see a 'Recently viewed' section on the product page to easily revisit items I considered.
+**Background:** As an Online Shopper, I want to see a 'Recently viewed' section on the product page to easily revisit items I considered.
 
 **Design:** [Figma link]
 
