@@ -31,7 +31,7 @@ Create user stories following the 3 C's (Card, Conversation, Confirmation) and I
 
 **Title:** [Feature name]
 
-**Description:** As a [user role], I want to [action], so that [benefit].
+**Background:** As a [user role], I want to [action], so that [benefit].
 
 **Design:** [Link to design files]
 
